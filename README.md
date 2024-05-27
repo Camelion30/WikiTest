@@ -19,7 +19,7 @@ Clone this repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/Camelion30/wikipedia-watchlist-tests.git
+git clone (https://github.com/Camelion30/WikiTest/blob/main/test1.cy.js)
 Navigate to the project directory.
 
 bash
