@@ -36,7 +36,7 @@ Before running the tests, make sure to update the following variables in the cyp
 UserIdInput: Camelion30.
 UserPasswordInput: omersari2286
 WikiWatchList: "https://en.wikipedia.org/wiki/Special:Watchlist".
-TestData1 and TestData2: Names of the articles you want to add to the watchlist. (Variables are changeable)
+TestData1 and TestData2: Galatasaray and Manchester United. (Variables are changeable)
 TestUrl1 and TestUrl2: URLs of the articles you want to add to the watchlist.
 Running the Tests
 
